@@ -1,0 +1,68 @@
+I'm Slava Tyryshkin
+
+Here is readable CV
+<a href='printable.html'>There is printable CV</a>
+	
+Skills
+	data preparation
+		SQL
+		airflow
+		pandas
+	ML
+		scikit-learn
+		tensorflow
+	coding
+		functional/unit testing
+		profiling
+		django
+		flask
+		rest
+		graphql
+
+Work
+	2019..now
+	python developer
+	@ BI vendor
+		lead developed API wrap for BI system
+		and micro-services related
+
+	2014..2019
+	financial controller 
+	@ FMCG and adtech startup
+		financial statements &
+		data-processes
+			preparation
+			checking
+			improvement
+
+Courses
+	ML from scratch by Andrew Ng
+		<a href="https://coursera.org/learn/machine-learning" target="_top">link</a>
+	ML crash course by google
+		<a href="https://developers.google.com/machine-learning/crash-course" target="_top">link</a>
+	mlcourse.ai 
+		# in progress
+	21-school.ru 
+		# only pool, but much fun
+	Test Driven Development
+		obeythetestinggoat.com 
+		# in progress
+	CIMA P1
+
+Education
+	economist
+	2009..2014 
+	The Finance University of 
+	Government of Russia
+	Moscow
+		GPA 4.4/5
+		Paper on KPI implementation
+
+Contacts
+	<a href="mailto:v@tyryshkin.com" target="_top">v@tyryshkin.com</a><a href="https://www.linkedin.com/in/tyryshkin" target="_top">
+	linkedin.com/in/tyryshkin</a>
+
+	More
+<a href="https://www.kaggle.com/tyryshkin" target ="_top">		kaggle.com/tyryshkin</a><a href="https://www.github.com/slavanorm" target ="_top">
+		github.com/slavanorm</a><a href="https://online-go.com/player/775899" target="_top">
+		online-go.com/player/775899</a>
