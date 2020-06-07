@@ -20,6 +20,7 @@ Skills
 		graphql
 
 Work
+	<a href="CV_details_Tyryshkin.pdf"># here is long-list</a>
 	2019..now
 	python developer
 	@ BI vendor
