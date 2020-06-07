@@ -66,4 +66,4 @@ Contacts
 	More
 <a href="https://www.kaggle.com/tyryshkin" target ="_top">		kaggle.com/tyryshkin</a><a href="https://www.github.com/slavanorm" target ="_top">
 		github.com/slavanorm</a><a href="https://online-go.com/player/775899" target="_top">
-		online-go.com/player/775899</a>
+		online-go.com/player/775899</a>t
